@@ -1,0 +1,52 @@
+[
+  {
+	"id" : "100",
+	"name" : "honey",
+	"address" : "ap",
+	"salary" : "100000",
+    "phone" : "98767487576"
+	
+  },
+  {
+	"id" : "101",
+	"name" : "divya",
+	"address" : "ap",
+	"salary" : "100000",
+    "phone" : "98767487576"
+	
+  },
+  {
+	"id" : "102",
+	"name" : "prakash",
+	"address" : "ap",
+	"salary" : "100000",
+    "phone" : "98767487576"
+	
+  },
+  {
+	"id" : "103",
+	"name" : "venkat",
+	"address" : "ap",
+	"salary" : "100000",
+    "phone" : "98767487576"
+	
+  },
+  {
+	"id" : "104",
+	"name" : "chandu",
+	"address" : "ap",
+	"salary" : "100000",
+    "phone" : "98767487576"
+	
+  },
+  {
+	"id" : "105",
+	"name" : "priya",
+	"address" : "ap",
+	"salary" : "100000",
+    "phone" : "98767487576"
+	
+  }
+  ]
+  
+  
